@@ -1,6 +1,3 @@
-# rockie.github.io
-This is fun project
-
 <!DOCTYPE html>
 <html>
 <head>
